@@ -1,0 +1,15 @@
+main.c:62:5:__io_putchar	1
+main.c:70:6:jumpAssembly	1
+main.c:76:6:print_continuously	1
+main.c:85:6:print_again	1
+main.c:96:6:newthing	1
+main.c:105:6:againthing	1
+main.c:115:6:print_thread_id	1
+main.c:124:6:print_thread_id_urgent	1
+main.c:131:6:print_thread_id_1	1
+main.c:140:6:print_thread_id_urgent_1	1
+main.c:163:5:main	1
+main.c:276:6:SystemClock_Config	3
+main.c:323:13:MX_USART2_UART_Init	2
+main.c:356:13:MX_GPIO_Init	1
+main.c:396:6:Error_Handler	1
